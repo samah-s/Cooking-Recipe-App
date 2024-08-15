@@ -31,9 +31,9 @@ This project is a starting point for a Flutter application.
 ### Dependencies
 Here are the dependencies used in this project:
 
-flutter: The Flutter framework itself.
-http: For making HTTP requests.
-web_scraper: For web scraping.
-provider: For state management.
+- flutter: The Flutter framework itself.
+- http: For making HTTP requests.
+- web_scraper: For web scraping.
+- provider: For state management.
 
 For a complete list of dependencies and their versions, refer to the pubspec.yaml file in the project.
