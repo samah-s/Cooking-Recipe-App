@@ -14,6 +14,12 @@ This project is a starting point for a Flutter application.
 - **Support for Websites and YouTube**: Handle both recipe articles and YouTube videos.
 - **User-Friendly Interface**: Simple and intuitive design for ease of use.
 
+### LLM Integration
+This project utilizes a large language model (LLM) deployed as part of the backend to process and analyze recipe data. The LLM is used for extracting and organizing recipe information into a structured format.
+
+#### Deployment
+The LLM is deployed via a Flask backend, which handles requests from the Flutter app. The backend API endpoints are integrated with the Flutter app to fetch and process data. Ensure the Flask server is running and accessible for the Flutter app to interact with the LLM.
+
 ### Installation
 
 1. **Clone the Repository**:
